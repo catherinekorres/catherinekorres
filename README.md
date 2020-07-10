@@ -17,6 +17,6 @@ My name is Catherine and I'm a web developer.
  
  - 🚀 I’m a Software Engineering student, and also currently enrolled on [GoStack Bootcamp](https://rocketseat.com.br/gostack) from Rocketseat.
  
- - :art: I'm also studying more about UX/UI Design, learning my way around AdobeXD.
+ - :art: I'm studying more about UX/UI Design, learning my way around AdobeXD.
  
  - :dart: Looking forward to expand my portfolio, so be sure to checkout my future repos!
