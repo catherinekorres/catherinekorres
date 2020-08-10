@@ -1,7 +1,7 @@
 
 # Catherine Korres 
 
-[![Linkedin Badge](https://img.shields.io/badge/-catherinekorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinekorres/)](https://www.linkedin.com/in/catherinekorres/) [![Gmail Badge](https://img.shields.io/badge/-catherine@catherinekorres.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:catherine@catherinekorres.dev)](mailto:catherine@catherinekorres.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-catherinekorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinekorres/)](https://www.linkedin.com/in/catherinekorres/) [![Gmail Badge](https://img.shields.io/badge/-catherine@catherinekorres.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:catherine@catherinekorres.dev)](mailto:catherine@catherinekorres.dev) [![Rocketseat](https://img.shields.io/badge/-catherinekorres-8257e5?style=flat-square&logo=Apache+RocketMQ&logoColor=white&link=https://app.rocketseat.com.br/me/catherinekorres)](https://app.rocketseat.com.br/me/catherinekorres)
 
 ### Hello! 👋 Welcome to my profile
 
