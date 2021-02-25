@@ -12,11 +12,3 @@ My name is Catherine and I'm a web developer.
  - :woman_technologist: Despite my front-end tendencies, I don't limit myself to that. I work fullstack, and I'm open to learn more in every opportunity. 
  
  - ✨ I'm currently working with React, focusing on improving my skills and knowledge on this amazing framework.
- 
- -  :nail_care: I've been using styled-components on my React projects for a while and I can say it's a personal preference, but I enjoy working with Sass as well.
- 
- - 🚀 I’m a Software Engineering student, and also currently enrolled on [GoStack Bootcamp](https://rocketseat.com.br/gostack) from Rocketseat.
- 
- - :art: I'm studying more about UX/UI Design, learning my way around AdobeXD.
- 
- - :dart: Looking forward to expand my portfolio, so be sure to checkout my future repos!
