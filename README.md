@@ -5,10 +5,9 @@
 
 ### Hello! 👋 Welcome to my profile
 
-My name is Catherine and I'm a web developer.
 
 - :sparkling_heart: I consider myself a front-end developer, developing beautiful interfaces is something that I'm very passionate about.
 
- - :woman_technologist: Despite my front-end tendencies, I don't limit myself to that. I work fullstack, and I'm open to learn more in every opportunity. 
+ - :woman_technologist: Despite my front-end tendencies, I have experience working fullstack.
  
- - ✨ I'm currently working with React, focusing on improving my skills and knowledge on this amazing framework.
+ - ✨ I'm currently working with React Native, focusing on improving my skills with mobile development.
