@@ -1,13 +1,14 @@
 
-# Catherine Korres 
+ <img align="left" width="50%" alt="gh-readme-header" src="https://user-images.githubusercontent.com/16155022/114254992-fe8a2380-9988-11eb-8696-ecf5e08af72f.png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-catherinekorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinekorres/)](https://www.linkedin.com/in/catherinekorres/) [![Gmail Badge](https://img.shields.io/badge/-catherine@catherinekorres.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:catherine@catherinekorres.dev)](mailto:catherine@catherinekorres.dev)
+:sparkling_heart: as a front-end engineer, developing beautiful interfaces is something that I've always been passionate about.
 
-### Hello! 👋 Welcome to my profile
+ ✨ I'm currently working with React Native and focusing on improving my skills in mobile development.
 
+:woman_technologist: despite my front-end background, I also have experience working full stack.
 
-- :sparkling_heart: I consider myself a front-end developer, developing beautiful interfaces is something that I'm very passionate about.
+### Languages and tools
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react%20native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=% 2361DAFB"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 
- - :woman_technologist: Despite my front-end tendencies, I have experience working fullstack.
- 
- - ✨ I'm currently working with React Native, focusing on improving my skills with mobile development.
+### Stats
+[![Catherine Korres Github Stats](https://github-readme-stats.vercel.app/api?username=catherinekorres&show_icons=true&count_private=true&theme=radical)](https://github.com/catherinekorres) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinekorres&show_icons=true&layout=compact&langs_count=8&theme=radical)](https://github.com/catherinekorres)
