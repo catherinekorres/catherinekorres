@@ -1,7 +1,3 @@
-<p align="center">
- <img width="550" alt="gh-readme-header" src="https://user-images.githubusercontent.com/16155022/114254992-fe8a2380-9988-11eb-8696-ecf5e08af72f.png">
-</p>
-
 ## About me
  ❤️️ as a front-end engineer, developing beautiful interfaces is something that I've always been passionate about.
 
