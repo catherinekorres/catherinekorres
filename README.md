@@ -14,4 +14,4 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 
 ## Stats
-[![Catherine Korres Github Stats](https://github-readme-stats.vercel.app/api?username=catherinekorres&show_icons=true&count_private=true&theme=radical)](https://github.com/catherinekorres)
+[![Catherine Korres Github Stats](https://github-readme-stats.vercel.app/api?username=catherinekorres&title_color=FE428E&icon_color=FE428E&text_color=949CA5&bg_color=00000000&show_icons=true&count_private=true)](https://github.com/catherinekorres)
